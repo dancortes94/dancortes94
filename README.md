@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Daniel Cortés @dancortes94
+- 👀 I’m interested in videogames, reading, sports ⚽️ 🏈 🥊 🏎 and I'm a huge music fan.
+- 💻 The technologies I mostly use are:
+  - AWS
+  - GCP
+  - Python
+  - Go
+  - Terraform
+  - Kubernetes
+- 🌱 I’m currently learning security on AWS
+- 📫 How to reach me...
+  - Twitter: [@dancortes94](https://twitter.com/DanCortes94)
+  - Linkedin: [Daniel Cortés E'Vers](https://www.linkedin.com/in/daniel-cort%C3%A9s-e-vers-739b2a157/)
